@@ -1,2 +1,2 @@
 # my-awesome-repo
-第一个个人仓库
+第一个个人仓库,开始学习git
